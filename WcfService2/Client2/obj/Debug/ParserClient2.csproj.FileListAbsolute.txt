@@ -1,0 +1,11 @@
+C:\ProjectsC#\WcfService2\ParserClient2\bin\Debug\ParserClient2.exe.config
+C:\ProjectsC#\WcfService2\ParserClient2\bin\Debug\ParserClient2.exe
+C:\ProjectsC#\WcfService2\ParserClient2\bin\Debug\ParserClient2.pdb
+C:\ProjectsC#\WcfService2\ParserClient2\bin\Debug\WcfService2.dll
+C:\ProjectsC#\WcfService2\ParserClient2\bin\Debug\WcfService2.pdb
+C:\ProjectsC#\WcfService2\ParserClient2\bin\Debug\WcfService2.dll.config
+C:\ProjectsC#\WcfService2\ParserClient2\obj\Debug\ParserClient2.csprojAssemblyReference.cache
+C:\ProjectsC#\WcfService2\ParserClient2\obj\Debug\ParserClient2.csproj.CoreCompileInputs.cache
+C:\ProjectsC#\WcfService2\ParserClient2\obj\Debug\ParserClient2.csproj.CopyComplete
+C:\ProjectsC#\WcfService2\ParserClient2\obj\Debug\ParserClient2.exe
+C:\ProjectsC#\WcfService2\ParserClient2\obj\Debug\ParserClient2.pdb
